@@ -1,11 +1,11 @@
 ---
-title: "helloworld.md"
+title: "HelloWorld.md"
 author: "Nick-tab"
 date: "9/9/2020"
 output: html_document
 ---
 
-##This is a markdown file
+## This is a Markdown file
 
 
 
