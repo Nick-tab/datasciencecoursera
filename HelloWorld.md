@@ -2,11 +2,18 @@
 title: "HelloWorld.md"
 author: "Nick-tab"
 date: "9/9/2020"
+<<<<<<< HEAD
 output: pdf_document
 ---
 ```{r}
 ## This is a Markdown file
 ```
+=======
+output: html_document
+---
+
+## This is a Markdown file
+>>>>>>> 720c26e6fd2f145443c0775c6a6cbc9c8c50ae00
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
