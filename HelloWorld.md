@@ -2,12 +2,11 @@
 title: "HelloWorld.md"
 author: "Nick-tab"
 date: "9/9/2020"
-output: html_document
+output: pdf_document
 ---
-
+```{r}
 ## This is a Markdown file
-
-
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
